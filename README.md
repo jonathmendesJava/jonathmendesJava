@@ -1,82 +1,93 @@
 <div align="center">
 
-# Olá, eu sou Jonath Mendes 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&section=header&text=Jonath%20Mendes&fontSize=42&fontColor=e8dcc8&stroke=1a1a1a&strokeWidth=1.5" alt="Jonath Mendes"/>
 
-**Desenvolvedor Full Stack · TypeScript · React · Node · IA**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=E8DCC8&center=true&vCenter=true&width=620&lines=Investigando+bugs+na+noite+escura...;Full+Stack+entre+sombras+e+commits.;TypeScript+%7C+React+%7C+Node+%7C+IA" alt="Typing animation"/>
 
-Construo produtos digitais — do front ao back — com foco em experiência, automação e soluções com inteligência artificial.
+<pre>
+      ·  ˚  ✦  ·  ˚  ✦  ·  ˚  ✦  ·
+        ╭─────────────────────────────╮
+        │   ▓▒░  DEV PRIVATE EYE  ░▒▓  │
+        ╰─────────────────────────────╯
+              chuva de código na cidade
+      ·  ˚  ✦  ·  ˚  ✦  ·  ˚  ✦  ·
+</pre>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-jonathm.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonath-mendes-117a6221b)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhmends_/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5592982653407)
-
-</div>
-
----
-
-## Sobre mim
-
-Sou desenvolvedor apaixonado por tecnologia e por transformar ideias em software que funciona no mundo real.
-
-Hoje trabalho principalmente com **TypeScript**, **React**, **Node/NestJS** e **Python**, criando aplicações web, integrações, chatbots e projetos com **IA** (RAG, LangChain, automações).
-
-> A tecnologia é uma ferramenta poderosa para transformar o mundo — e eu quero fazer parte dessa transformação. 🚀
-
----
-
-## Stack principal
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfólio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=e8dcc8&labelColor=0d0d0d)](https://portfolio-jonathm.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=e8dcc8&labelColor=0d0d0d)](https://www.linkedin.com/in/jonath-mendes-117a6221b)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=e8dcc8&labelColor=0d0d0d)](https://www.instagram.com/jhmends_/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-1a1a1a?style=for-the-badge&logo=whatsapp&logoColor=e8dcc8&labelColor=0d0d0d)](https://wa.me/5592982653407)
 
 </div>
 
 ---
 
-## Projetos em destaque
+## 📁 Dossiê confidencial
 
-| Projeto | Descrição | Stack |
-|--------|-----------|-------|
-| [**portfolio2**](https://github.com/jonathmendesJava/portfolio2) | Portfólio profissional atualizado | TypeScript |
-| [**p3-site-ai**](https://github.com/jonathmendesJava/p3-site-ai) | Site com recursos de IA | TypeScript |
-| [**fios-ai-chat**](https://github.com/jonathmendesJava/fios-ai-chat) | Chat com inteligência artificial | TypeScript |
-| [**fios-contact-sync**](https://github.com/jonathmendesJava/fios-contact-sync) | Sincronização e gestão de contatos | TypeScript |
-| [**Project_Guarda-Chuva**](https://github.com/jonathmendesJava/Project_Guarda-Chuva) | RAG, pipelines e LangChain em Python | Python |
+> *"Na cidade não dorme quem debuga. Cada linha de código é uma pista — e eu sigo o rastro até o deploy."*
+
+Sou **Jonath Mendes**, desenvolvedor Full Stack que transforma ideias em software real.
+
+Trabalho com **TypeScript**, **React**, **Node/NestJS** e **Python**, criando apps web, integrações, chatbots e soluções com **IA** (RAG, LangChain, automações).
 
 ---
 
-## GitHub
+## ✎ Arsenal técnico
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jonathmendesJava&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathmendesJava&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathmendesJava&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=e8dcc8)
+![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=e8dcc8)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=e8dcc8)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=e8dcc8)
+![NestJS](https://img.shields.io/badge/NestJS-0d0d0d?style=for-the-badge&logo=nestjs&logoColor=e8dcc8)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=e8dcc8)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=e8dcc8)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=e8dcc8)
+![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=for-the-badge&logo=vercel&logoColor=e8dcc8)
 
 </div>
 
 ---
 
-## Vamos conversar?
+## 🔍 Casos resolvidos
 
-Aberto a colaborações, freelas e novas oportunidades.
+| Caso | Descrição | Evidência |
+|------|-----------|-----------|
+| [**portfolio2**](https://github.com/jonathmendesJava/portfolio2) | Portfólio profissional na sombra do design | `TypeScript` |
+| [**p3-site-ai**](https://github.com/jonathmendesJava/p3-site-ai) | Site com inteligência artificial embutida | `TypeScript` |
+| [**fios-ai-chat**](https://github.com/jonathmendesJava/fios-ai-chat) | Chat IA — conversas na madrugada digital | `TypeScript` |
+| [**fios-contact-sync**](https://github.com/jonathmendesJava/fios-contact-sync) | Sincronização e gestão de contatos | `TypeScript` |
+| [**Project_Guarda-Chuva**](https://github.com/jonathmendesJava/Project_Guarda-Chuva) | RAG, pipelines e LangChain em Python | `Python` |
 
-[![Portfolio](https://img.shields.io/badge/Ver_portfólio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-jonathm.vercel.app/)
-[![E-mail](https://img.shields.io/badge/Contato_via_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonath-mendes-117a6221b)
+---
+
+## 📊 Registro de atividade
 
 <div align="center">
 
-*"Código limpo, produto útil, impacto real."*
+<img height="170em" src="./assets/github-stats.svg" alt="GitHub Stats"/>
+<img height="170em" src="./assets/top-langs.svg" alt="Top Languages"/>
+
+<img src="https://streak-stats.demolab.com/?user=jonathmendesJava&theme=shadow_red&hide_border=true&background=0D0D0D&stroke=3D3D3D&ring=C9A227&fire=C9A227&currStreakLabel=E8DCC8&sideNums=E8DCC8&currStreakNum=E8DCC8&sideLabels=E8DCC8&dates=8A8275" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## ☎ Linha direta
+
+Aberto a colaborações, freelas e novos casos.
+
+[![Portfólio](https://img.shields.io/badge/Abrir_portfólio-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=e8dcc8&labelColor=0d0d0d)](https://portfolio-jonathm.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Contato_profissional-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=e8dcc8&labelColor=0d0d0d)](https://www.linkedin.com/in/jonath-mendes-117a6221b)
+
+<div align="center">
+
+<pre>
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+  "Código limpo. Produto útil. Mistério resolvido."
+﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
+</pre>
 
 </div>
