@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&section=header&text=Jonath%20Mendes&fontSize=42&fontColor=e8dcc8&stroke=1a1a1a&strokeWidth=1.5" alt="Jonath Mendes"/>
+<img src="./assets/noir-banner.png" alt="Cidade noir em sketch — detetive na chuva" width="100%"/>
+
+<br/>
+
+### Jonath Mendes
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=E8DCC8&center=true&vCenter=true&width=620&lines=Investigando+bugs+na+noite+escura...;Full+Stack+entre+sombras+e+commits.;TypeScript+%7C+React+%7C+Node+%7C+IA" alt="Typing animation"/>
 
