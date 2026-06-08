@@ -66,19 +66,6 @@ Trabalho com **TypeScript**, **React**, **Node/NestJS** e **Python**, criando ap
 
 ---
 
-## 📊 Registro de atividade
-
-<div align="center">
-
-<img height="170em" src="./assets/github-stats.svg" alt="GitHub Stats"/>
-<img height="170em" src="./assets/top-langs.svg" alt="Top Languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=jonathmendesJava&theme=shadow_red&hide_border=true&background=0D0D0D&stroke=3D3D3D&ring=C9A227&fire=C9A227&currStreakLabel=E8DCC8&sideNums=E8DCC8&currStreakNum=E8DCC8&sideLabels=E8DCC8&dates=8A8275" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## ☎ Linha direta
 
 Aberto a colaborações, freelas e novos casos.
