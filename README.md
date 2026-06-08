@@ -26,7 +26,7 @@
 
 ---
 
-## 📁 Dossiê confidencial
+## Dossiê confidencial
 
 > *"Na cidade não dorme quem debuga. Cada linha de código é uma pista — e eu sigo o rastro até o deploy."*
 
@@ -36,7 +36,7 @@ Trabalho com **TypeScript**, **React**, **Node/NestJS** e **Python**, criando ap
 
 ---
 
-## ✎ Arsenal técnico
+## Arsenal técnico
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Trabalho com **TypeScript**, **React**, **Node/NestJS** e **Python**, criando ap
 
 ---
 
-## 🔍 Casos resolvidos
+## Casos resolvidos
 
 | Caso | Descrição | Evidência |
 |------|-----------|-----------|
@@ -66,7 +66,7 @@ Trabalho com **TypeScript**, **React**, **Node/NestJS** e **Python**, criando ap
 
 ---
 
-## ☎ Linha direta
+## Linha direta
 
 Aberto a colaborações, freelas e novos casos.
 
